@@ -35,3 +35,7 @@ terraform.rc
 
 # Ignore macOS files
 .DS_Store
+
+.terraform*
+tfplan
+# .terraform.lock.hcl
